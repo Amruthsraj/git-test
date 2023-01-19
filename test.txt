@@ -1,0 +1,13 @@
+1)Clone the repository from Git Hub to working Dir.
+
+Admin@DESKTOP-E2OCGEP MINGW64 ~/Desktop/git test
+$ git config --global user.email
+amruthys.33@gmai.com
+
+Admin@DESKTOP-E2OCGEP MINGW64 ~/Desktop/git test
+$ git clone https://github.com/Amruthsraj/git-test.git
+Cloning into 'git-test'...
+warning: You appear to have cloned an empty repository.
+
+2)Add a file to the participants directory that describes you.
+
